@@ -1,0 +1,9 @@
+Istanbul 366
+Ankara 0
+Tokat 160
+Sivas 242
+Izmir 161
+Samsun 178
+Agri 771
+Kahramanmaras 151
+Eskisehir 226
